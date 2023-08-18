@@ -22,6 +22,7 @@ class _drawerState extends State<drawer> {
 
   }
 var test;
+var test2;
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
