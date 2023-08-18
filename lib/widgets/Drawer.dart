@@ -21,7 +21,7 @@ class _drawerState extends State<drawer> {
     userSignedIn = sharedPref.getString(LoginPageState.KEYNAME);
 
   }
-
+var test;
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
